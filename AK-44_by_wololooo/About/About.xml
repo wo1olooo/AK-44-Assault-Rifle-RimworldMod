@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+  <name>AK-44 by Wololooo</name>
+  <author>wololooo</author>
+  <packageId>wololooo.AKFortyFour</packageId>
+  <modVersion>1.0.0.0</modVersion>
+
+  <description>The AK-44 is the rough draft of a legend. Forged by the young Sergeant Kalashnikov during the final throes of Old Earth’s bloodiest war, it was a raw attempt to define the future of automatic warfare using the experimental 7.62×41mm cartridge.
+
+But on the ancient testing grounds, it was overshadowed. Eclipsed by the rival AS-44 and the shifting tides of doctrine, the prototype was deemed too heavy and the ammunition too scarce. It was discarded as a footnote, buried by time while its successors conquered the world.
+
+Yet the Rim is a place of second chances. Salvaged from the corrupted memory banks of a derelict freighter, the AK-44 has been resurrected by smiths who recognize the seed of greatness.
+
+Rebuilt to feed the rare 7.62×41mm rounds, it is no longer a forgotten prototype but a weapon of pure function. It lacks the polish of the empire it would later spawn, but it possesses an unbreakable heart. It cycles with a rhythmic, brutal reliability. A legend’s origin story finally told at the edge of the universe.
+
+~wololooo
+</description>
+	
+  <supportedVersions>
+	<li>1.6</li>
+    <li>1.5</li>
+  </supportedVersions>
+  
+  <modDependencies>
+    <li>
+      <packageId>wololooo.sovietResearchTab</packageId>
+      <displayName>Soviet Rifle Research Tab</displayName>
+      <downloadUrl>https://github.com/wo1olooo/Soviet-Rifle-Research-Tab-by-Wololooo</downloadUrl>
+    </li>
+	<li>
+      <packageId>wololooo.ATFortyFour</packageId>
+      <displayName>AT-44</displayName>
+      <downloadUrl>https://github.com/wo1olooo/AT-44-Assault-Rifle-RimworldMod</downloadUrl>
+    </li>
+  </modDependencies>
+  <url>https://github.com/wo1olooo/AK-44-Assault-Rifle-RimworldMod</url>
+  
+</ModMetaData>

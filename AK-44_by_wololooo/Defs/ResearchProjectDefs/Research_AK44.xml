@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ResearchProjectDef>
+  
+    <defName>Research_AK44_by_wololooo</defName>
+    <label>AK44</label>
+	<description>The AK-44 is the rough draft of a legend. Forged by Sergeant Kuzmischev during Old Earth’s bloodiest war, it was a raw attempt to define the future of automatic warfare. But never made it to the front, a prototype lost in time.
+
+Though overshadowed and buried by time, the design has been salvaged from the archives of a derelict freighter. Rebuilt to feed the rare 7.62×41mm rounds, it lacks polish but possesses an unbreakable heart. A legend’s origin story, finally told at the edge of the universe.
+
+~wololooo
+</description>
+
+	<tab>SovietGuns_by_wololooo</tab>
+	
+    <baseCost>2900</baseCost>
+    <techLevel>Industrial</techLevel>
+	
+	<prerequisites>
+      <li>Gunsmithing</li>
+	  <li>PrecisionRifling</li>
+	  <li>Soviet_Research_Program</li>
+	  <li>Soviet_Assault_Rifle_Program</li>
+    </prerequisites>
+	
+	<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+
+    <researchViewX>4</researchViewX>
+    <researchViewY>0</researchViewY>
+	
+
+  </ResearchProjectDef>
+
+</Defs>
