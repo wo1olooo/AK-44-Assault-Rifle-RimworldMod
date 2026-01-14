@@ -1,4 +1,4 @@
-#AK-44 — A Master’s Prototype Reborn
+# AK-44 — A Master’s Prototype Reborn
 
 ---
 
